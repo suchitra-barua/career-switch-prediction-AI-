@@ -7,10 +7,12 @@ Perform data preprocessing and feature engineering
 Train multiple machine learning models
 Compare model performance and accuracy
 Identify the best-performing model
+
 🛠️ Tech Stack
 Programming Language: Python
 Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras
 Environment: Jupyter Notebook
+
 ⚙️ Workflow
 Data Preprocessing
 Handling missing values
@@ -26,6 +28,7 @@ Neural Network
 Model Evaluation
 Accuracy comparison
 Performance metrics analysis
+
 📈 Results & Accuracy
 Logistic Regression: ~80–85% accuracy
 Decision Tree: ~75–82% accuracy
